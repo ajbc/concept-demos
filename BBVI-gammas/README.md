@@ -1,6 +1,6 @@
 # Black Box Variational inference for Gamma-distributed latent parameters
 
-This is the code to accompany my (guide to BBVI for gammas)[http://ajbc.io/resources/bbvi_for_gammas.pdf].
+This is the code to accompany my [guide to BBVI for gammas](http://ajbc.io/resources/bbvi_for_gammas.pdf).
 
 To try the demo:
 
